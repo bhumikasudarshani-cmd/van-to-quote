@@ -1,4 +1,0 @@
-flask
-faster-whisper
-requests
-reportlab
